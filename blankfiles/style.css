@@ -1,0 +1,28 @@
+#title{
+    background: #a1ff5e;
+    width:100%;
+    height:10%;
+}
+#hello{
+    background-color: aqua;
+    width:40%;
+    height:50%;
+    float:left;
+
+}
+#goodbye {
+    background-color: deeppink;
+    width:40%;
+    height:50%;
+}
+img{
+    width:200px;
+    height:200px;
+}
+a{
+    font-size:30px;
+}
+
+.titleDiv{
+    background-color: black;
+}
